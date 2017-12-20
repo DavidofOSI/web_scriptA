@@ -1,0 +1,916 @@
+[API Trapper      (1ab4:  d4)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (10dc:1eb4)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (10dc:1e80)] ------------------------------------------------------------------------------------------
+[Network Analyzer (10dc:1e80)] Load Network Traffic Analyzers:
+[Network Analyzer (10dc:1e80)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (10dc:1e80)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (10dc:1e80)]     Analyzer Module: local_server (value=)
+[Network Analyzer (10dc:1e80)] ------------------------------------------------------------------------------------------
+[Network Analyzer (10dc:188c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:1500)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:1500)] Request Connection: Remote Server @ 52.84.79.60:80   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (10dc:1e80)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:1e80)] Request Connection: Remote Server @ 69.61.108.62:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (10dc:188c)]   (Sid:  2) Client -> Server @ : 426 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  2) Server -> Client : 317 bytes 
+[Network Analyzer (10dc:1e80)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:1e80)] Request Connection: Remote Server @ 69.61.108.62:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (10dc:1794)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (10dc:1af4)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:1af4)] Request Connection: Remote Server @ 178.255.83.1:80   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (10dc:188c)]   (Sid:  4) Client -> Server @ : 244 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  4) Server -> Client : 190 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer (10dc:1500)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:1500)] Request Connection: Remote Server @ 178.255.83.1:80   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (10dc:188c)]   (Sid:  5) Client -> Server @ : 287 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  5) Server -> Client : 190 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer (10dc:1500)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:1500)] Request Connection: Remote Server @ 104.16.93.188:80   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (10dc:188c)]   (Sid:  6) Client -> Server @ : 160 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 5840 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 8760 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 1460 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 1460 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 5840 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 2920 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 2920 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 2920 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 5840 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 2920 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 2920 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 1460 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 4380 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 5840 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 5840 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 5840 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 7300 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 2920 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 7300 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 5840 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 8760 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 2920 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 2920 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 5840 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 14600 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 7300 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 11680 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 5840 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 5840 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 2920 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 2920 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 5676 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 2920 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 8924 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 10220 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 7300 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 1460 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 4380 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16060 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 11516 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 1460 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 1460 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 11844 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 5840 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 6656 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 10179 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Client -> Server @ : 203 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 1460 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 4380 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 5840 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 4380 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 8034 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 11680 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  6) Server -> Client : 2797 bytes 
+[Net An. Error    (10dc:1794)] SSLAccept(ssl_id = 153015496 = 091ED4C8) Failed, ctx = 091ED168, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (10dc:1794)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (10dc:1e80)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:188c)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (10dc:1e80)] Request Connection: Remote Server @ 69.61.108.62:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (10dc:1e9c)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (10dc:1e9c)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (10dc:188c)]   (Sid:  7) Client -> Server @ : 504 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  7) Server -> Client : 476 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  7) Client -> Server @ : 568 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  7) Server -> Client : 462 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  7) Client -> Server @ : 602 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  7) Server -> Client : 8772 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  7) Client -> Server @ : 642 bytes (SSL)
+[Network Analyzer (10dc:1a68)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc: d10)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:1610)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:188c)]   (Sid:  7) Server -> Client : 821 bytes (SSL)
+[Network Analyzer (10dc:1f0c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:188c)]   (Sid:  7) Client -> Server @ : 788 bytes (SSL)
+[Network Analyzer (10dc: 698)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:188c)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (10dc:188c)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (10dc:1a68)] Request Connection: Remote Server @ 69.61.108.62:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (10dc:1af4)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:110c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc: d10)] Request Connection: Remote Server @ 69.61.108.62:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (10dc:1500)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:1610)] Request Connection: Remote Server @ 69.61.108.62:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (10dc:1f0c)] Request Connection: Remote Server @ 69.61.108.62:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (10dc:1e80)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc: 698)] Request Connection: Remote Server @ 52.84.79.60:80   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (10dc:1998)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:114c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:188c)]   (Sid:  7) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  7) Server -> Client : 11669 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 12) Client -> Server @ : 361 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  7) Client -> Server @ : 810 bytes (SSL)
+[Network Analyzer (10dc:1af4)] Request Connection: Remote Server @ 69.61.108.71:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (10dc:110c)] Request Connection: Remote Server @ 69.61.108.71:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (10dc:1500)] Request Connection: Remote Server @ 69.61.108.71:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (10dc:1e80)] Request Connection: Remote Server @ 69.61.108.71:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (10dc:114c)] Request Connection: Remote Server @ 69.61.108.62:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (10dc:1998)] Request Connection: Remote Server @ 69.61.108.71:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (10dc:188c)]   (Sid:  7) Server -> Client : 10266 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 12) Server -> Client : 3859 bytes 
+[Network Analyzer (10dc:188c)]   (Sid:  7) Client -> Server @ : 670 bytes (SSL)
+[Network Analyzer (10dc:1c50)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (10dc:1c50)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (10dc:188c)]   (Sid:  7) Server -> Client : 1146 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  8) Client -> Server @ : 642 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  7) Client -> Server @ : 663 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  8) Server -> Client : 6023 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  7) Server -> Client : 3814 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  8) Client -> Server @ : 681 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  7) Client -> Server @ : 674 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  8) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  7) Server -> Client : 2347 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  8) Server -> Client : 2574 bytes (SSL)
+[Network Analyzer (10dc:1834)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (10dc:188c)]   (Sid:  8) Client -> Server @ : 673 bytes (SSL)
+[Network Analyzer (10dc:1834)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (10dc:188c)]   (Sid:  8) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  8) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  9) Client -> Server @ : 774 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  8) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  8) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  8) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  8) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  8) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  8) Server -> Client : 7453 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  9) Server -> Client : 6123 bytes (SSL)
+[Network Analyzer (10dc: c60)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (10dc: c60)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (10dc:1684)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (10dc:1684)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (10dc:1e20)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1, ciphers:AES128-SHA)
+[Network Analyzer (10dc:1860)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1, ciphers:AES128-SHA)
+[Network Analyzer (10dc:1998)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:188c)]   (Sid: 10) Client -> Server @ : 637 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Client -> Server @ : 643 bytes (SSL)
+[Network Analyzer (10dc:1998)] Request Connection: Remote Server @ 65.52.235.123:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (10dc:188c)]   (Sid: 10) Server -> Client : 777 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 2046 bytes (SSL)
+[Network Analyzer (10dc:184c)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1, ciphers:AES128-SHA)
+[Net An. Error    (10dc:1860)] SSLAccept(ssl_id = 200779208 = 0BF7A5C8) Failed, ctx = 091ED168, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (10dc:184c)] SSLAccept(ssl_id = 200778720 = 0BF7A3E0) Failed, ctx = 091ED168, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (10dc:1860)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (10dc:1e20)] SSLAccept(ssl_id = 200778232 = 0BF7A1F8) Failed, ctx = 091ED168, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (10dc:184c)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (10dc:1e20)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (10dc:114c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:1500)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:186c)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1, ciphers:AES128-SHA)
+[Network Analyzer (10dc:188c)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (10dc:188c)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (10dc:188c)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (10dc:114c)] Request Connection: Remote Server @ 69.61.108.71:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (10dc:1500)] Request Connection: Remote Server @ 69.61.108.71:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (10dc:110c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:110c)] Request Connection: Remote Server @ 69.61.108.71:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (10dc:1fb0)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (10dc:1fb0)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Net An. Error    (10dc:186c)] SSLAccept(ssl_id = 200777744 = 0BF7A010) Failed, ctx = 091ED168, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer (10dc:1500)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:16b0)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1, ciphers:AES128-SHA)
+[Net An. Error    (10dc:186c)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (10dc:1f6c)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (10dc:188c)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (10dc:188c)]   (Sid: 17) Client -> Server @ : 810 bytes (SSL)
+[Network Analyzer (10dc:1500)] Request Connection: Remote Server @ 69.61.108.71:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (10dc:188c)]   (Sid: 17) Server -> Client : 5757 bytes (SSL)
+[Network Analyzer (10dc:18f8)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1, ciphers:AES128-SHA)
+[Network Analyzer (10dc:18f8)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Net An. Error    (10dc:16b0)] SSLAccept(ssl_id = 200778232 = 0BF7A1F8) Failed, ctx = 091ED168, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (10dc:16b0)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (10dc:110c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:188c)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (10dc:188c)]   (Sid: 20) Client -> Server @ : 404 bytes (SSL)
+[Network Analyzer (10dc:110c)] Request Connection: Remote Server @ 69.61.108.71:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (10dc:1fd8)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1, ciphers:AES128-SHA)
+[Network Analyzer (10dc:1fd8)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (10dc:1a90)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1, ciphers:AES128-SHA)
+[Network Analyzer (10dc:1a90)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (10dc:1ddc)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1, ciphers:AES128-SHA)
+[Network Analyzer (10dc:1ddc)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (10dc:12b8)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1, ciphers:AES128-SHA)
+[Network Analyzer (10dc:12b8)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (10dc:114c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:188c)]   (Sid: 21) Client -> Server @ : 389 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 22) Client -> Server @ : 371 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 23) Client -> Server @ : 401 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 24) Client -> Server @ : 384 bytes (SSL)
+[Network Analyzer (10dc:114c)] Request Connection: Remote Server @ 104.18.54.167:80   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (10dc:188c)]   (Sid: 25) Client -> Server @ : 246 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 22) Server -> Client : 3431 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 24) Server -> Client : 8728 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 21) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 23) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 20) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 21) Server -> Client : 1986 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 23) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 20) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 23) Server -> Client : 10648 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 20) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 20) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 25) Server -> Client : 2690 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 20) Server -> Client : 3005 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 20) Server -> Client : 15722 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 25) Client -> Server @ : 289 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 17) Client -> Server @ : 674 bytes (SSL)
+[Network Analyzer (10dc:110c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:110c)] Request Connection: Remote Server @ 172.217.8.104:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (10dc:188c)]   (Sid: 17) Server -> Client : 1289 bytes (SSL)
+[Network Analyzer (10dc:1f80)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (10dc:1998)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:1998)] Request Connection: Remote Server @ 216.58.192.46:80   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (10dc:188c)]   (Sid: 25) Server -> Client : 2690 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 27) Client -> Server @ : 237 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 27) Server -> Client : 1895 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 17) Client -> Server @ : 674 bytes (SSL)
+[Network Analyzer (10dc:1998)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:188c)]   (Sid: 27) Client -> Server @ : 226 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 27) Client -> Server @ : 75 bytes 
+[Network Analyzer (10dc:1998)] Request Connection: Remote Server @ 72.21.81.200:80   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (10dc:188c)]   (Sid: 17) Server -> Client : 1495 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 28) Client -> Server @ : 197 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 28) Server -> Client : 336 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 28) Client -> Server @ : 240 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 27) Server -> Client : 1780 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 28) Server -> Client : 336 bytes 
+[Network Analyzer (10dc:1f0c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:114c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:1f0c)] Request Connection: Remote Server @ 172.217.2.206:80   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (10dc:188c)]   (Sid: 29) Client -> Server @ : 125 bytes 
+[Network Analyzer (10dc:114c)] Request Connection: Remote Server @ 104.104.244.217:80   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (10dc:188c)]   (Sid: 29) Server -> Client : 857 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Client -> Server @ : 145 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 29) Client -> Server @ : 168 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 29) Server -> Client : 857 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 1460 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 1460 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 4868 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 5840 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 1460 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 2756 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 1460 bytes 
+[Net An. Error    (10dc:1f80)] SSLAccept(ssl_id = 199907688 = 0BEA5968) Failed, ctx = 0BEA5D38, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 1460 bytes 
+[Net An. Error    (10dc:1f80)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 2920 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 7788 bytes 
+[Network Analyzer (10dc:110c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 1460 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 2920 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 1296 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 7300 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 12008 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 2920 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 2756 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 7300 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 6132 bytes 
+[Network Analyzer (10dc:110c)] Request Connection: Remote Server @ 172.217.8.104:443   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (10dc:188c)]   (Sid: 30) Client -> Server @ : 188 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 2920 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 5840 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 10220 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 13140 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 14600 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 9736 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 5840 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 11680 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 1588 bytes 
+[Network Analyzer (10dc:1ed4)]   (Sid: 31) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (10dc:1f6c)] SSLAccept(ssl_id = 200773352 = 0BF78EE8) Failed, ctx = 0BF7A998, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (10dc:1f6c)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (10dc:1ed4)]   (Sid: 31) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (10dc:188c)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Client -> Server @ : 364 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Server -> Client : 1373 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Server -> Client : 1373 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Server -> Client : 1373 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Server -> Client : 1373 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Server -> Client : 1373 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Server -> Client : 1373 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Server -> Client : 1373 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Server -> Client : 1373 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Server -> Client : 1373 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Server -> Client : 1373 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Server -> Client : 1373 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Server -> Client : 1373 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Server -> Client : 727 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Client -> Server @ : 966 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Server -> Client : 524 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 17) Client -> Server @ : 543 bytes (SSL)
+[Network Analyzer (10dc:110c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:188c)]   (Sid: 17) Server -> Client : 1405 bytes (SSL)
+[Network Analyzer (10dc:110c)] Request Connection: Remote Server @ 65.52.235.123:443   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (10dc:1f58)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Net An. Error    (10dc:1f58)] SSLAccept(ssl_id = 200780672 = 0BF7AB80) Failed, ctx = 0BF7A998, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (10dc:1f58)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (10dc:188c)]   (Sid: 32) Connection Terminated (by Client)
+[Network Analyzer (10dc:188c)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Client -> Server @ : 855 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Client -> Server @ : 2677 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 5107 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Client -> Server @ : 1049 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 10) Client -> Server @ : 970 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 20) Client -> Server @ : 476 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 21) Client -> Server @ : 465 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 22) Client -> Server @ : 447 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 23) Client -> Server @ : 479 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 24) Client -> Server @ : 459 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 39 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 10) Server -> Client : 700 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Client -> Server @ : 1005 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 10) Client -> Server @ : 1008 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  8) Client -> Server @ : 1005 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  9) Client -> Server @ : 1007 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  7) Client -> Server @ : 1003 bytes (SSL)
+[Network Analyzer (10dc:1af4)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:188c)]   (Sid:  9) Server -> Client : 3147 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 2424 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  9) Client -> Server @ : 1130 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Client -> Server @ : 1130 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  7) Server -> Client : 2982 bytes (SSL)
+[Network Analyzer (10dc:1af4)] Request Connection: Remote Server @ 69.61.108.62:443   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (10dc:188c)]   (Sid:  8) Server -> Client : 2838 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 10) Server -> Client : 2296 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 349 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  9) Server -> Client : 350 bytes (SSL)
+[Network Analyzer (10dc:110c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:1890)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (10dc:1890)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (10dc:110c)] Request Connection: Remote Server @ 65.52.235.123:443   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (10dc:188c)]   (Sid: 33) Client -> Server @ : 1000 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 33) Server -> Client : 288 bytes (SSL)
+[Network Analyzer (10dc: b3c)]   (Sid: 34) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (10dc:188c)]   (Sid: 25) Client -> Server @ : 246 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 20) Server -> Client : 427 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 22) Server -> Client : 427 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 23) Server -> Client : 427 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 21) Server -> Client : 427 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 24) Server -> Client : 427 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 25) Server -> Client : 2690 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 25) Client -> Server @ : 289 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 31) Client -> Server @ : 853 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Server -> Client : 536 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 33) Client -> Server @ : 843 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  9) Client -> Server @ : 1008 bytes (SSL)
+[Network Analyzer (10dc:1f0c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:188c)]   (Sid: 33) Server -> Client : 1405 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  9) Server -> Client : 1620 bytes (SSL)
+[Network Analyzer (10dc:1f0c)] Request Connection: Remote Server @ 65.52.235.123:443   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer (10dc:1f30)]   (Sid: 35) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (10dc:188c)]   (Sid: 25) Server -> Client : 1460 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 25) Server -> Client : 1230 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 28) Client -> Server @ : 197 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 28) Server -> Client : 336 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 28) Client -> Server @ : 240 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 28) Server -> Client : 336 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Client -> Server @ : 145 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 1460 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 1460 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 5840 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 1268 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer (10dc:188c)]   (Sid: 30) Client -> Server @ : 188 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 4380 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 11680 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 10352 bytes 
+[Net An. Error    (10dc: b3c)] SSLAccept(ssl_id = 199911104 = 0BEA66C0) Failed, ctx = 0BF7A998, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (10dc: b3c)]   (Sid: 34) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (10dc:1f30)] SSLAccept(ssl_id = 260361792 = 0F84CE40) Failed, ctx = 0BF7A998, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (10dc:1f30)]   (Sid: 35) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (10dc:188c)]   (Sid: 34) Connection Terminated (by Client)
+[Network Analyzer (10dc:188c)]   (Sid: 35) Connection Terminated (by Client)
+[Network Analyzer (10dc:188c)]   (Sid:  9) Client -> Server @ : 999 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  6) Connection Terminated (by Server)
+[Network Analyzer (10dc:188c)]   (Sid:  9) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  9) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  9) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  9) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  9) Server -> Client : 519 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  9) Server -> Client : 12370 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 24) Client -> Server @ : 485 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 21) Client -> Server @ : 488 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 23) Client -> Server @ : 474 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 22) Client -> Server @ : 468 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 20) Client -> Server @ : 456 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  9) Client -> Server @ : 999 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Client -> Server @ : 979 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid:  9) Server -> Client : 963 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 24) Server -> Client : 427 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 2794 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 22) Server -> Client : 427 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 20) Server -> Client : 427 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 21) Server -> Client : 427 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 23) Server -> Client : 427 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Client -> Server @ : 880 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Server -> Client : 536 bytes (SSL)
+[Network Analyzer (10dc:1f0c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:110c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:1f0c)] Request Connection: Remote Server @ 65.52.235.123:443   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (10dc:110c)] Request Connection: Remote Server @ 65.52.235.123:443   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (10dc: aec)]   (Sid: 36) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (10dc:188c)]   (Sid: 25) Client -> Server @ : 246 bytes 
+[Network Analyzer (10dc:15cc)]   (Sid: 37) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (10dc:188c)]   (Sid: 25) Server -> Client : 2690 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 25) Client -> Server @ : 289 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 25) Server -> Client : 1460 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 25) Server -> Client : 1230 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 28) Client -> Server @ : 197 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 28) Server -> Client : 336 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 28) Client -> Server @ : 240 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 28) Server -> Client : 336 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Client -> Server @ : 145 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 1460 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 5840 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 8760 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 10352 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Client -> Server @ : 188 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 1460 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 8760 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16384 bytes 
+[Network Analyzer (10dc:188c)]   (Sid: 30) Server -> Client : 16192 bytes 
+[Net An. Error    (10dc: aec)] SSLAccept(ssl_id = 200779208 = 0BF7A5C8) Failed, ctx = 0BF7A998, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (10dc:15cc)] SSLAccept(ssl_id = 199910616 = 0BEA64D8) Failed, ctx = 0BF7A998, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (10dc: aec)]   (Sid: 36) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (10dc:15cc)]   (Sid: 37) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (10dc:188c)]   (Sid: 36) Connection Terminated (by Client)
+[Network Analyzer (10dc:188c)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Client -> Server @ : 1106 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Client -> Server @ : 16355 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Client -> Server @ : 16355 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Client -> Server @ : 16355 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Client -> Server @ : 12794 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 16384 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 13355 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Client -> Server @ : 722 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 11) Server -> Client : 8756 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 23) Client -> Server @ : 474 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 21) Client -> Server @ : 477 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 20) Client -> Server @ : 463 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 22) Client -> Server @ : 457 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 24) Client -> Server @ : 445 bytes (SSL)
+[Network Analyzer (10dc: 698)] Address lookup for Win10LR1253 = 192.168.1.140
+[Network Analyzer (10dc:188c)]   (Sid: 23) Server -> Client : 427 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 22) Server -> Client : 427 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 24) Server -> Client : 427 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 21) Server -> Client : 427 bytes (SSL)
+[Network Analyzer (10dc: 698)] Request Connection: Remote Server @ 65.52.235.123:443   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer (10dc:188c)]   (Sid: 20) Server -> Client : 427 bytes (SSL)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Client -> Server @ : 858 bytes (SSL)
+[Network Analyzer (10dc: cbc)]   (Sid: 38) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (10dc:188c)]   (Sid: 31) Server -> Client : 536 bytes (SSL)
+[Network Analyzer (10dc:110c)] Address lookup for Win10LR1253 = 192.168.1.140
+[Net An. Error    (10dc: cbc)] SSLAccept(ssl_id = 199911104 = 0BEA66C0) Failed, ctx = 0BF7A998, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (10dc: cbc)]   (Sid: 38) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (10dc:188c)]   (Sid: 38) Connection Terminated (by Client)
+[Network Analyzer (10dc:110c)] Request Connection: Remote Server @ 65.52.235.123:443   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer (10dc: 2e4)]   (Sid: 39) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Net An. Error    (10dc: 2e4)] SSLAccept(ssl_id = 200780672 = 0BF7AB80) Failed, ctx = 0BF7A998, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (10dc: 2e4)]   (Sid: 39) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (10dc:188c)]   (Sid: 39) Connection Terminated (by Client)
