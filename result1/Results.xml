@@ -135,7 +135,7 @@
 <Res><![CDATA[result1]]></Res>
 <Action rID="T2">
 <AName><![CDATA[vuser_init]]></AName>
-<Summary sTime="20-Dec-17 - 15:25:02" eTime="20-Dec-17 - 15:25:03" passed="0" failed="0" warnings="0" ></Summary>
+<Summary sTime="20-Dec-17 - 15:30:13" eTime="20-Dec-17 - 15:30:16" passed="0" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="5" >
 <Disp><![CDATA[vuser_init Summary]]></Disp>
 </NodeArgs>
@@ -143,33 +143,24 @@
 <DIter rID="T3" iterID="1" >
 <Action rID="T4">
 <AName><![CDATA[Action]]></AName>
-<Summary sTime="20-Dec-17 - 15:25:03" eTime="20-Dec-17 - 15:25:31" passed="0" failed="0" warnings="0" ></Summary>
+<Summary sTime="20-Dec-17 - 15:30:19" eTime="20-Dec-17 - 15:30:23" passed="0" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="8" >
 <Disp><![CDATA[Action Summary]]></Disp>
 </NodeArgs>
 </Action>
-<Step rID="T5">
-<Obj plainTxt="False" ><![CDATA[Script Aborted!]]></Obj>
-<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#FF0031>Failed</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[20-Dec-17 - 15:25:32]]></Time>
-<TimeTick>1513801532</TimeTick>
-<NodeArgs eType="General" icon="1" nRep="10" status="Failed" >
-<Disp><![CDATA[Script Aborted!]]></Disp>
+<NodeArgs eType="StartIteration" icon="3" nRep="7" >
+<Disp><![CDATA[WebHttpHtml28 Iteration 1 (Row 1)]]></Disp>
 </NodeArgs>
-</Step>
-<Action rID="T6">
+</DIter>
+<Action rID="T5">
 <AName><![CDATA[vuser_end]]></AName>
-<Summary sTime="20-Dec-17 - 15:25:40" eTime="20-Dec-17 - 15:25:41" passed="0" failed="0" warnings="0" ></Summary>
+<Summary sTime="20-Dec-17 - 15:30:24" eTime="20-Dec-17 - 15:30:25" passed="0" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="11" >
 <Disp><![CDATA[vuser_end Summary]]></Disp>
 </NodeArgs>
 </Action>
-<NodeArgs eType="StartIteration" icon="3" nRep="7" status="Failed" >
-<Disp><![CDATA[WebHttpHtml28 Iteration 1 (Row 1)]]></Disp>
-</NodeArgs>
-</DIter>
-<Summary sTime="20-Dec-17 - 15:24:44" eTime="20-Dec-17 - 15:25:46" passed="0" failed="1" warnings="0" ></Summary>
-<NodeArgs eType="StartTest" icon="1" nRep="4" status="Failed" >
+<Summary sTime="20-Dec-17 - 15:30:11" eTime="20-Dec-17 - 15:30:26" passed="0" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartTest" icon="1" nRep="4" >
 <Disp><![CDATA[Test WebHttpHtml28 Summary]]></Disp>
 </NodeArgs>
 </Doc>
